@@ -1,4 +1,4 @@
-node
+node('agent1')
 {
 stage'download from git'
 sh "echo download"
